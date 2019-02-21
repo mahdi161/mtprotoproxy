@@ -1,7 +1,7 @@
 
 ## Starting Up ##
     
-1. `git clone -b stable https://github.com/alexbers/mtprotoproxy.git; cd mtprotoproxy`
+1. `git clone -b stable https://github.com/mahdi161/mtprotoproxy.git; cd mtprotoproxy`
 2. *(optional, recommended)* edit *config.py*, set **PORT**, **USERS** and **AD_TAG**
 
 ## Advanced Usage ##
