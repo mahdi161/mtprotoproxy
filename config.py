@@ -1,4 +1,4 @@
-PORT = 1378
+PORT = 1062
 
 # name -> secret (32 hex chars)
 USERS = {
