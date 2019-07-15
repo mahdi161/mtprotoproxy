@@ -2,13 +2,13 @@ PORT = 1378
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "00000000000000000000000000000000",
+    "tg":  "9381610011eadead9381610011eadead",
     "tg2": "0123456789abcdef0123456789abcdef"
 }
 
 # Tag for advertising, obtainable from @MTProxybot
-# AD_TAG = "3c09c680b76ee91a4c25ad51f742267d"
+AD_TAG = "1b014bcd7f5354d462cdf8ac856939a0"
 
 # Uncommenting this do make a proxy harder to detect
 # But it can be incompatible with old clients
-# SECURE_ONLY = True
+SECURE_ONLY = True
